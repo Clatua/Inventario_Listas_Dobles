@@ -1,0 +1,1 @@
+Control de Inventario usando Listas Enlazadas Dobles buscando por código (ID), eliminar por id además de listar todos los productos.
